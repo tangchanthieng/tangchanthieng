@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Thank you for visiting!
+
+*I'm Chan. A Master of Business Analytics - Data Science graduate from La Trobe University, with experience spanning data analysis, administrative support, and academic research. I am driven by accuracy and efficiency, possess strong analytical thinking and problem-solving skills, and excel at translating analytical findings into actionable insights.*
+
+*My expertise covers a range of programming, analysis, and data management tools:*
+
+<img width="1703" height="524" alt="image" src="https://github.com/user-attachments/assets/3fa39702-5897-4167-a0f6-ee72c055f85f" />
+
 <!--
 **tangchanthieng/tangchanthieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
