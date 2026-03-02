@@ -13,8 +13,8 @@ My expertise covers a range of programming, analysis, and data management tools.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LLM projects
-- 🌱 I’m currently interested in agentic AI
-- 💬 Ask me about Statistics
-- ⚡ Fun fact: What do you think about using 50mm lenses for landscapes?
+- 🔭 I’m currently working on **LLM** projects
+- 🌱 I’m currently interested in **agentic AI**
+- 💬 Ask me about **Statistics**
+- ⚡ Fun fact: What do you think about using **50mm lenses for landscapes?**
 
