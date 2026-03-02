@@ -2,7 +2,7 @@
 
 Thank you for visiting!
 
-*I'm Chan. A Master of Business Analytics - Data Science graduate from La Trobe University, with experience spanning data analysis, administrative assistance, and academic research. I am driven by accuracy and efficiency, possess strong analytical thinking and problem-solving skills, and excel at translating analytical findings into actionable insights.*
+**I'm Chan. A Master of Business Analytics - Data Science graduate from La Trobe University, with experience spanning data analysis, administrative assistance, and academic research. I am driven by efficiency and profitability, possess strong analytical thinking and problem-solving skills, and excel at translating analytical findings into actionable insights.**
 
 My expertise covers a range of programming, analysis, and data management tools.
 
@@ -14,7 +14,7 @@ My expertise covers a range of programming, analysis, and data management tools.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LLM projects
-- 🌱 I’m currently learning Gen AI
+- 🌱 I’m currently interested in agentic AI
 - 💬 Ask me about Statistics
 - ⚡ Fun fact: What do you think about using 50mm lenses for landscapes?
 
