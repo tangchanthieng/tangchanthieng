@@ -2,7 +2,7 @@
 
 Thank you for visiting!
 
-**I'm Chan. A Master of Business Analytics - Data Science graduate from La Trobe University, with experience spanning data analysis, administrative assistance, and academic research. I am driven by efficiency and profitability, possess strong analytical thinking and problem-solving skills, and excel at translating analytical findings into actionable insights.**
+I'm Chan. A Master of Business Analytics - Data Science graduate from La Trobe University, with experience spanning data analysis, administrative assistance, and academic research. I am driven by efficiency and profitability, possess strong analytical thinking and problem-solving skills, and excel at translating analytical findings into actionable insights.
 
 My expertise covers a range of programming, analysis, and data management tools.
 
