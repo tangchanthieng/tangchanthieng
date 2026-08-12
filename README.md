@@ -1,17 +1,29 @@
-## Hi there 👋
+## Hi 👋👋👋
 
-Thank you for visiting!
+[![Website Badge](https://img.shields.io/badge/Canva-View-blue?style=flat-square&logo=canva)](https://chantang.my.canva.site/chan-thieng-tang-dta)
+[![Email Badge](https://img.shields.io/badge/email-tangchanthieng%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:tangchanthieng@gmail.com)
 
-I'm Chan. A Master of Business Analytics - Data Science graduate from La Trobe University, with experience spanning data analysis, administrative assistance, and academic research. I am driven by efficiency and profitability, possess strong analytical thinking and problem-solving skills, and excel at translating analytical findings into actionable insights.
 
-My expertise covers a range of programming, analysis, and data management tools.
+I'm Chan and I'm doing numbers.
 
-1. Programming & Analysis: **Python** (Pandas, NumPy, Scikit-learn, TensorFlow, Streamlit, Seaborn, Matplotlib), **R** (EDA, Statistics, Spatial Analysis, Regression, PCA, Time Series), **SAS** (Enterprise Miner, Viya), **Stata**.
-2. Data Visualisation: **Power BI**, **Tableau**, **SAP Lumira**, **Excel** (Dashboard, Pivot Tables), **Google Sheets**.
-3. Database & Data Management: **SQL Server**, **Azure SQL Database**, **Azure Databricks**, **Azure Big Data Pipeline**, **NoSQL Schema Design**, **SSDT** (SQL Server Data Tools), **ETL Processes**, **Data Warehousing & Big Data** (OLAP, Cubes, ERD, Entity Modelling).
-4. Project & Workflow Management: **Trello**, **Notion**, **Agile** (Scrum Framework), **Teams**, **CRM**, **Slack**.
+- Graduated with a Finance & Banking bachelor and a Business Analytics (Data Science) master degree in Vietnam and Australia.
 
-Here are some ideas to get you started:
+- Worked as a Data Analyst/Research Assistant, Operations Support Officer, and ICT Support Technician (with BA tasks).
+
+- Focusing on AI, Automation, and Operation/Profitability Optimisation.
+
+---
+
+My Tech stacks include:
+
+| Tech                                       | Tool                                                                                                                 |
+|------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Database & Automation                      | SQL Server, PostgreSQL, NoSQL, REST API, Star Schema, Airlow, n8n, dbt, Databricks, Kafka, SSDT                      |
+| Programming Language                       | Python, R, SQL, Stata, Bash, Vibe Coding, HTLM                                                                       |
+| Data Analytics & Statistics                | ETL pipeline, EDA, A/B Testing, MS Excel, Google Sheets, Machine Learning, Statistics Analysis, Data Validation      |
+| Business Intelligence & Data Visualization | Power BI, Tableau, Looker, MS Excel, Google Sheets, Streamlit, Dashboard Development, DAX, Views, SAS                |
+| IT Support & Infrastructure                | Troubleshooting, Hardware & Software Support, Networking Fundamentals, Ticket Management                             |
+| Collaboration                              | Stakeholder Communication, Agile, Reporting, Jira, BRD, Git/Github, Trello, Notion, Slack                            |
 
 - 🔭 I’m currently working on **LLM** projects
 - 🌱 I’m currently interested in **agentic AI**
