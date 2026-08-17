@@ -1,7 +1,7 @@
+<img width="813" height="457" alt="image" src="https://github.com/user-attachments/assets/5a03d7e0-cb95-4ae4-aa9f-7aa7da9d88cb" />
+
 [![Website Badge](https://img.shields.io/badge/Canva-View-blue?style=flat-square&logo=canva)](https://chantang.my.canva.site/chan-thieng-tang-dta)
 [![Email Badge](https://img.shields.io/badge/email-tangchanthieng%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:tangchanthieng@gmail.com)
-
-`I'm Chan and I'm doing numbers`
 
 3+ years of experience transforming complex data into actionable business insights and improving operational performance. Skilled at reducing analysis turnaround, delivering data-processing efficiency while maintaining data accuracy across high-volume data sources.
 
@@ -19,8 +19,8 @@ Looking to transition into database management, data engineering, and project co
 
 | Tech | Tool |
 |------|------|
-| Database & Automation | SQL Server, PostgreSQL, NoSQL, REST API, Airlow, n8n, dbt, Databricks, Kafka, SSDT |
-| Programming Language  | Python, R, SQL, Stata, Bash, Vibe Coding, HTLM |
+| Database & Automation | SQL Server, PostgreSQL, NoSQL, REST API, Airflow, n8n, dbt, Databricks, Kafka, SSDT |
+| Programming Language  | Python, R, SQL, Stata, Bash, Vibe Coding, HTML |
 | Data Analytics & Statistics | ETL, EDA, A/B Testing, Machine Learning, Statistics Analysis, Data Validation |
 | Business Intelligence & Data Visualization | Power BI, Tableau, Looker, MS Excel, Google Sheets, Streamlit, DAX, Views, SAS |
 | IT Support & Infrastructure | Troubleshooting, Hardware & Software Support, Networking Fundamentals, Ticket Management |
