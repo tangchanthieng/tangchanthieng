@@ -19,9 +19,9 @@ Looking to transition into database management, data engineering, and project co
 
 | Tech | Tool |
 |------|------|
-| Database & Automation | SQL Server, PostgreSQL, NoSQL, REST API, Star Schema, Airlow, n8n, dbt, Databricks, Kafka, SSDT |
+| Database & Automation | SQL Server, PostgreSQL, NoSQL, REST API, Airlow, n8n, dbt, Databricks, Kafka, SSDT |
 | Programming Language  | Python, R, SQL, Stata, Bash, Vibe Coding, HTLM |
-| Data Analytics & Statistics | ETL, EDA, A/B Testing, MS Excel, Google Sheets, Machine Learning, Statistics Analysis, Data Validation |
+| Data Analytics & Statistics | ETL, EDA, A/B Testing, Machine Learning, Statistics Analysis, Data Validation |
 | Business Intelligence & Data Visualization | Power BI, Tableau, Looker, MS Excel, Google Sheets, Streamlit, DAX, Views, SAS |
 | IT Support & Infrastructure | Troubleshooting, Hardware & Software Support, Networking Fundamentals, Ticket Management |
 | Collaboration | Stakeholder Communication, Agile, Reporting, Jira, BRD, Git/Github, Trello, Notion, Slack |
@@ -51,6 +51,9 @@ Looking to transition into database management, data engineering, and project co
 `Contact`
 
 > Email: tangchanthieng@gmail.com (preferred)
-LinkedIn: https://www.linkedin.com/in/chanthiengtang/
-Portfolio: https://chantang.my.canva.site/chan-thieng-tang-dta
-Github: https://github.com/tangchanthieng
+
+> LinkedIn: https://www.linkedin.com/in/chanthiengtang/
+
+> Portfolio: https://chantang.my.canva.site/chan-thieng-tang-dta
+
+> Github: https://github.com/tangchanthieng
