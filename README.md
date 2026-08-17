@@ -1,5 +1,3 @@
-<img width="813" height="457" alt="image" src="https://github.com/user-attachments/assets/5a03d7e0-cb95-4ae4-aa9f-7aa7da9d88cb" />
-
 [![Website Badge](https://img.shields.io/badge/Canva-View-blue?style=flat-square&logo=canva)](https://chantang.my.canva.site/chan-thieng-tang-dta)
 [![Email Badge](https://img.shields.io/badge/email-tangchanthieng%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:tangchanthieng@gmail.com)
 
