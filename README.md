@@ -28,20 +28,6 @@ Looking to transition into database management, data engineering, and project ma
 
 ---
 
-`My approach to data/business analytics:`
-
-1. Business Problem
-2. Stakeholder Discussions
-3. Business Question
-4. Data Collection
-5. ETL
-6. EDA
-7. Statistical Analysis
-8. Data Visualisation
-9. Business Insights
-10. Impact Measurement
----
-
 `Contact`
 
 > Email: tangchanthieng@gmail.com (preferred)
